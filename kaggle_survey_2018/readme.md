@@ -1,7 +1,7 @@
 # Kaggle Survey 2018
 
 In 2018, Kaggle hosted its first `Machine Learning and Data Science Annual Survey Challenge` where the participants were asked to
-find interesting insights from the survey. Almost `24K` people all over the world participated in the survey.
+find interesting insights from the survey. Almost `24,000` people all over the world participated in the survey.
 
 ### The challenge objective: 
 Tell a data story about a subset of the data science community represented in this survey, through a 
@@ -13,9 +13,9 @@ This is an opportunity to be creative and tell the story of a community you iden
 
 ### What's there for you in the notebook?
 It took me almost 15 days to complete this notebook. If you really want to learn how to use `pandas`, `matplotlib`, `seaborn`, 
-`plotly` in an efficient way including advanced usages of all the above, then this notebook is for you. Every part of the survey
-has been covered in the notebook with as much details as possible. 
+`plotly` in an efficient way including advanced usages of all of the above, then this notebook is for you. 
+Every part of the survey has been covered in the notebook with as much details as possible. 
 
 ### Fun fact
-There are more than 2400 lines of code in thie notebook but **only two print statements** have been used in the notebook.
+There are more than 2400 lines of code in this notebook but **only two print statements** have been used in the entire notebook.
 Everything is accompanied with `visualizations`
