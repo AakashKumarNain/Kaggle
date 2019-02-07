@@ -11,7 +11,7 @@ model explainability are:
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/slothkong/10-monkey-species/home)
 
 ## Requirements
-In order to run the notebook, you must have the following packages installed:
+In order to run the notebook locally, you must have the following packages installed:
 * Python>=3.6
 * numpy>=1.15
 * scikit-learn
@@ -21,3 +21,7 @@ In order to run the notebook, you must have the following packages installed:
 * mlextend
 * imgaug
 * opencv>=3.4.x
+
+
+If you don't want to use a local setup and you directly want to view the notebook with proper outputs, 
+please visit [nbviewer](https://nbviewer.jupyter.org) and paste the link to this notebook there.
