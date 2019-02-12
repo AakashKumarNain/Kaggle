@@ -5,7 +5,7 @@ neural network. It shows a way to interpret the predictions of a CNN. The two wa
 model explainability are:
 
 * **Visualization of intermediate layers activation maps**
-* **Class Activation Mapping(CAM)**
+* **[Class Activation Mapping(CAM)](http://cnnlocalization.csail.mit.edu/)**
 
 ## Dataset
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/slothkong/10-monkey-species/home)
