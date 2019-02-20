@@ -15,7 +15,9 @@ This is an opportunity to be creative and tell the story of a community you iden
 It took me almost 15 days to complete this notebook. If you really want to learn how to use `pandas`, `matplotlib`, `seaborn`, 
 `plotly` in an efficient way including advanced usages of all of the above, then this notebook is for you. 
 Every part of the survey has been covered in the notebook with as much details as possible. 
+Also, github doesn't do well when it comes to notebook. You can see the all the visualizations [here](https://www.kaggle.com/aakashnain/is-it-better-than-2017) 
 
 ### Fun fact
 There are more than 2400 lines of code in this notebook but **only two print statements** have been used in the entire notebook.
 Everything is accompanied with `visualizations`
+
