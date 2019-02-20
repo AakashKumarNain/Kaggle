@@ -23,5 +23,4 @@ In order to run the notebook locally, you must have the following packages insta
 * opencv>=3.4.x
 
 
-If you don't want to use a local setup and you directly want to view the notebook with proper outputs, 
-please visit [nbviewer](https://nbviewer.jupyter.org) and paste the link to this notebook there.
+The original notebook is hosted [here](https://www.kaggle.com/aakashnain/what-does-a-cnn-see) or you can visit [nbviewer](https://nbviewer.jupyter.org) and paste the link to this notebook there to load the outputs properly.
