@@ -5,3 +5,8 @@ This project aims at building a captcha cracker. On a high-level overview, this 
 * Feature Extraction from captcha image
 * Running an RNN on the extracted feature
 * Training using `CTC` as the loss function
+
+
+Some of the sample results produced by the network are shown below:
+
+![Results](./results.png)
